@@ -1,4 +1,3 @@
-/usr/lib/jvm/java-8-openjdk-amd64/bin/java -javaagent:/home/andrea/Programmi/idea-IU-173.4674.33/lib/idea_rt.jar=33207:/home/andrea/Programmi/idea-IU-173.4674.33/bin -Dfile.encoding=UTF-8 -classpath "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/cldrdata.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/icedtea-sound.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/jaccess.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunec.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/zipfs.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/management-agent.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/home/andrea/Documenti/YOOX ACADEMY 2018/Modulo_10/javaAcademy/99bottles/target/classes" com.javaacademy.bottles.Bottles
 99 bottles of beer on the wall,99 bottles of beer,
 Take one down, pass it around,98 bottles of beer on the wall.
 
@@ -299,5 +298,3 @@ Take one down, pass it around,0 bottles of beer on the wall.
 0 bottles of beer on the wall,0 bottles of beer,
 Go to the store, buy some more,99 bottles of beer on the wall.
 
-
-Process finished with exit code 0

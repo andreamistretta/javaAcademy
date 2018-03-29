@@ -18,13 +18,16 @@ public class Bottles {
             if (beers==0)
             {
                 out.print("Go to the store, buy some more,");
-                out.println("99 bottles of beer on the wall.\r\n");
+                out.println("99 bottles of beer on the wall.");
+                out.print(System.lineSeparator());
+
                 return;
             }
             else
                 out.print("Take one down, pass it around,");
             s = (beers-1 == 1)?"":"s";
-            out.println(beers-1 + " bottle" + s + " of beer on the wall.\r\n");
+            out.println(beers-1 + " bottle" + s + " of beer on the wall.");
+            out.print(System.lineSeparator());
         }
     }
 }
